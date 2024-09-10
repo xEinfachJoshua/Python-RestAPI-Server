@@ -1,4 +1,4 @@
-# Projektname
+# Python-RestAPI-Server
 
 ## Projektbeschreibung
 Dieses Projekt stellt einen einfachen HTTP-Server bereit, der verschiedene API-Endpunkte unterstützt. Die Konfiguration erfolgt über eine zentrale JSON-Datei.
