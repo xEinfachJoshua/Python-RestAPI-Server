@@ -1,0 +1,25 @@
+{
+    "Server": {
+        "port": 3000,
+        "host": "",
+        "path": "/htdocs/"
+    },
+    "Routing": [
+       
+        {
+            "API": "senddata",
+            "url": "/senddata",
+            "method": "POST",
+            "auth": false,
+            "func": "send_data"
+        },
+        {
+            "API": "home",
+            "url": "/",
+            "method": "GET",
+            "auth": false,
+            "func": "home"
+        }
+        
+    ]
+}
